@@ -1,3 +1,6 @@
 [submodule "sm-medic"]
 	path = sm-medic
 	url = git@github.com:marqdevx/sm-medic.git
+[submodule "sm-cfgLauncher"]
+	path = sm-cfgLauncher
+	url = git@github.com:marqdevx/sm-cfgLauncher.git
