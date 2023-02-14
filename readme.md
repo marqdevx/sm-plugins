@@ -8,7 +8,7 @@ Click on each plugin and check the "Releases" section.
 Download the `.smx` file to add it on yor `sourcemod/plugins`
 
 ### Plugins:
-* **sm-medic**: 
+* **[sm-medic](https://github.com/marqdevx/sm-medic)**: 
     This plugin is a shortcut to restore backup rounds, by just saying `.medic <round_number>` (only for admins)
 * **sm-cfgLauncher**: 
     Shortcuts executions of CFGs from the server side, for example the custom practice server, will be launched with `.practice` (only for admins)
