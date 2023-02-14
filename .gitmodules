@@ -1,0 +1,3 @@
+[submodule "sm-medic"]
+	path = sm-medic
+	url = git@github.com:marqdevx/sm-medic.git
