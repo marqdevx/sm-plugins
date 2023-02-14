@@ -2,7 +2,12 @@ Wrap of plugins that I have worked on.
 
 Some of them are basically a remake of other plugin and just tweaked to change the main outcome of the plugin.
 
-List:
+### Downloads
+Click on each plugin and check the "Releases" section.
+
+Download the `.smx` file to add it on yor `sourcemod/plugins`
+
+### Plugins:
 * **sm-medic**: 
     This plugin is a shortcut to restore backup rounds, by just saying `.medic <round_number>` (only for admins)
 * **sm-cfgLauncher**: 
