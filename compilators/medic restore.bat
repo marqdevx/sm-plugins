@@ -6,3 +6,5 @@ spcomp.exe csgo_medic.sp
 
 del csgo_medic.sp
 move csgo_medic.smx ..\..\..\..\..\sm-plugins\sm-medic
+
+pause

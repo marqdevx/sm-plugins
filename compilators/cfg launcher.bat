@@ -6,3 +6,5 @@ spcomp.exe csgo_cfglauncher.sp
 
 del csgo_cfglauncher.sp
 move csgo_cfglauncher.smx ..\..\..\..\..\sm-plugins\sm-cfgLauncher
+
+pause
