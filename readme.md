@@ -19,4 +19,4 @@ Download the `.smx` file to add it on yor `sourcemod/plugins`
 In order to compile each plugin:
 * Create a folder outside this root folder called `csgo-sourcemod-versions` where you download the needed sourcemod version
 * Include the needed `.inc` files that use the plugin
-* Open the terminal, navigate to the `compilers` directory and just launch the one that you want to compile, it will move the compiled binary (`.mx`) to the plugin's directory.
+* Navigate to the `compilers` directory and just launch the one that you want to compile, it will create and move the compiled binary (`.smx`) to the plugin's directory.
