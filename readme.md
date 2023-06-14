@@ -10,6 +10,8 @@ Download the `.smx` file to add it on yor `sourcemod/plugins`
 ### Plugins:
 * **[sm-medic](https://github.com/marqdevx/sm-medic)**: 
     This plugin is a shortcut to restore backup rounds, by just saying `.medic <round_number>` (only for admins)
+* **[sm-demo](https://github.com/marqdevx/sm-demo)**: 
+    Demo management plugin to `.record` and `.stoprecord`
 * **[csgo-sounds](https://github.com/marqdevx/csgo-sounds)**: 
     Fun plugin to play sounds from chat commands like `.dog` or `chicken`.
 * **sm-cfgLauncher**: 
