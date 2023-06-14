@@ -4,3 +4,6 @@
 [submodule "sm-cfgLauncher"]
 	path = sm-cfgLauncher
 	url = git@github.com:marqdevx/sm-cfgLauncher.git
+[submodule "csgo-sounds"]
+	path = csgo-sounds
+	url = git@github.com:marqdevx/csgo-sounds.git
