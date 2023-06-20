@@ -1,0 +1,12 @@
+[submodule "plugins/csgo-sounds"]
+	path = plugins/csgo-sounds
+	url = git@github.com:marqdevx/csgo-sounds.git
+[submodule "plugins/cm-cfglauncher"]
+	path = plugins/cm-cfglauncher
+	url = git@github.com:marqdevx/sm-cfgLauncher.git
+[submodule "plugins/sm-demo"]
+	path = plugins/sm-demo
+	url = git@github.com:marqdevx/sm-demo.git
+[submodule "plugins/sm-medic"]
+	path = plugins/sm-medic
+	url = git@github.com:marqdevx/sm-medic.git
